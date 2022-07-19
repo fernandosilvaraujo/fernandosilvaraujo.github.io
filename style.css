@@ -1,7 +1,9 @@
 body {
     font-family: Arial; 
+    background-color: rgb(230, 224, 224);
 }
-h1 {
+#nome {
+    font-size: xx-large;
     color: rgba(0, 128, 0, 0.5);
 }
 #skills {
@@ -9,5 +11,7 @@ h1 {
     font-size: larger;
 }
 header { text-align: center;
+    line-height: 0px;
+        margin: 50px;
     
 }
