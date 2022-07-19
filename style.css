@@ -1,0 +1,13 @@
+body {
+    font-family: Arial; 
+}
+h1 {
+    color: rgba(0, 128, 0, 0.5);
+}
+#skills {
+    color: rgba(0, 128, 0, 0.5) ;
+    font-size: larger;
+}
+header { text-align: center;
+    
+}
